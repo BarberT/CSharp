@@ -11,3 +11,16 @@ D:\Code\IsStringIsogram\obj\Debug\netcoreapp3.1\IsStringIsogram.csproj.CoreCompi
 D:\Code\IsStringIsogram\obj\Debug\netcoreapp3.1\IsStringIsogram.dll
 D:\Code\IsStringIsogram\obj\Debug\netcoreapp3.1\IsStringIsogram.pdb
 D:\Code\IsStringIsogram\obj\Debug\netcoreapp3.1\IsStringIsogram.genruntimeconfig.cache
+C:\Users\mthom\Source\Repos\BarberT\CSharp\Code challenge\IsStringIsogram\bin\Debug\netcoreapp3.1\IsStringIsogram.exe
+C:\Users\mthom\Source\Repos\BarberT\CSharp\Code challenge\IsStringIsogram\bin\Debug\netcoreapp3.1\IsStringIsogram.deps.json
+C:\Users\mthom\Source\Repos\BarberT\CSharp\Code challenge\IsStringIsogram\bin\Debug\netcoreapp3.1\IsStringIsogram.runtimeconfig.json
+C:\Users\mthom\Source\Repos\BarberT\CSharp\Code challenge\IsStringIsogram\bin\Debug\netcoreapp3.1\IsStringIsogram.runtimeconfig.dev.json
+C:\Users\mthom\Source\Repos\BarberT\CSharp\Code challenge\IsStringIsogram\bin\Debug\netcoreapp3.1\IsStringIsogram.dll
+C:\Users\mthom\Source\Repos\BarberT\CSharp\Code challenge\IsStringIsogram\bin\Debug\netcoreapp3.1\IsStringIsogram.pdb
+C:\Users\mthom\Source\Repos\BarberT\CSharp\Code challenge\IsStringIsogram\obj\Debug\netcoreapp3.1\IsStringIsogram.csprojAssemblyReference.cache
+C:\Users\mthom\Source\Repos\BarberT\CSharp\Code challenge\IsStringIsogram\obj\Debug\netcoreapp3.1\IsStringIsogram.AssemblyInfoInputs.cache
+C:\Users\mthom\Source\Repos\BarberT\CSharp\Code challenge\IsStringIsogram\obj\Debug\netcoreapp3.1\IsStringIsogram.AssemblyInfo.cs
+C:\Users\mthom\Source\Repos\BarberT\CSharp\Code challenge\IsStringIsogram\obj\Debug\netcoreapp3.1\IsStringIsogram.csproj.CoreCompileInputs.cache
+C:\Users\mthom\Source\Repos\BarberT\CSharp\Code challenge\IsStringIsogram\obj\Debug\netcoreapp3.1\IsStringIsogram.dll
+C:\Users\mthom\Source\Repos\BarberT\CSharp\Code challenge\IsStringIsogram\obj\Debug\netcoreapp3.1\IsStringIsogram.pdb
+C:\Users\mthom\Source\Repos\BarberT\CSharp\Code challenge\IsStringIsogram\obj\Debug\netcoreapp3.1\IsStringIsogram.genruntimeconfig.cache

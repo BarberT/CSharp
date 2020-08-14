@@ -1,24 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Code\\IsStringIsogram\\IsStringIsogram.csproj": {}
+    "C:\\Users\\mthom\\Source\\Repos\\BarberT\\CSharp\\Code challenge\\IsStringIsogram\\IsStringIsogram.csproj": {}
   },
   "projects": {
-    "D:\\Code\\IsStringIsogram\\IsStringIsogram.csproj": {
+    "C:\\Users\\mthom\\Source\\Repos\\BarberT\\CSharp\\Code challenge\\IsStringIsogram\\IsStringIsogram.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Code\\IsStringIsogram\\IsStringIsogram.csproj",
+        "projectUniqueName": "C:\\Users\\mthom\\Source\\Repos\\BarberT\\CSharp\\Code challenge\\IsStringIsogram\\IsStringIsogram.csproj",
         "projectName": "IsStringIsogram",
-        "projectPath": "D:\\Code\\IsStringIsogram\\IsStringIsogram.csproj",
-        "packagesPath": "C:\\Users\\michael.BLUEDART\\.nuget\\packages\\",
-        "outputPath": "D:\\Code\\IsStringIsogram\\obj\\",
+        "projectPath": "C:\\Users\\mthom\\Source\\Repos\\BarberT\\CSharp\\Code challenge\\IsStringIsogram\\IsStringIsogram.csproj",
+        "packagesPath": "C:\\Users\\mthom\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mthom\\Source\\Repos\\BarberT\\CSharp\\Code challenge\\IsStringIsogram\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\michael.BLUEDART\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\mthom\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -53,18 +53,12 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[3.1.2, 3.1.2]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
         }
       }
     }
