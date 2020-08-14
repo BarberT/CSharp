@@ -1,0 +1,13 @@
+D:\Code\IsStringIsogram\bin\Debug\netcoreapp3.1\IsStringIsogram.exe
+D:\Code\IsStringIsogram\bin\Debug\netcoreapp3.1\IsStringIsogram.deps.json
+D:\Code\IsStringIsogram\bin\Debug\netcoreapp3.1\IsStringIsogram.runtimeconfig.json
+D:\Code\IsStringIsogram\bin\Debug\netcoreapp3.1\IsStringIsogram.runtimeconfig.dev.json
+D:\Code\IsStringIsogram\bin\Debug\netcoreapp3.1\IsStringIsogram.dll
+D:\Code\IsStringIsogram\bin\Debug\netcoreapp3.1\IsStringIsogram.pdb
+D:\Code\IsStringIsogram\obj\Debug\netcoreapp3.1\IsStringIsogram.csprojAssemblyReference.cache
+D:\Code\IsStringIsogram\obj\Debug\netcoreapp3.1\IsStringIsogram.AssemblyInfoInputs.cache
+D:\Code\IsStringIsogram\obj\Debug\netcoreapp3.1\IsStringIsogram.AssemblyInfo.cs
+D:\Code\IsStringIsogram\obj\Debug\netcoreapp3.1\IsStringIsogram.csproj.CoreCompileInputs.cache
+D:\Code\IsStringIsogram\obj\Debug\netcoreapp3.1\IsStringIsogram.dll
+D:\Code\IsStringIsogram\obj\Debug\netcoreapp3.1\IsStringIsogram.pdb
+D:\Code\IsStringIsogram\obj\Debug\netcoreapp3.1\IsStringIsogram.genruntimeconfig.cache
