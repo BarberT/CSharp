@@ -1,0 +1,11 @@
+D:\Code\MissingNumberArray\bin\Debug\netcoreapp3.1\MissingNumberArray.exe
+D:\Code\MissingNumberArray\bin\Debug\netcoreapp3.1\MissingNumberArray.deps.json
+D:\Code\MissingNumberArray\bin\Debug\netcoreapp3.1\MissingNumberArray.runtimeconfig.json
+D:\Code\MissingNumberArray\bin\Debug\netcoreapp3.1\MissingNumberArray.runtimeconfig.dev.json
+D:\Code\MissingNumberArray\bin\Debug\netcoreapp3.1\MissingNumberArray.dll
+D:\Code\MissingNumberArray\bin\Debug\netcoreapp3.1\MissingNumberArray.pdb
+D:\Code\MissingNumberArray\obj\Debug\netcoreapp3.1\MissingNumberArray.csprojAssemblyReference.cache
+D:\Code\MissingNumberArray\obj\Debug\netcoreapp3.1\MissingNumberArray.AssemblyInfoInputs.cache
+D:\Code\MissingNumberArray\obj\Debug\netcoreapp3.1\MissingNumberArray.AssemblyInfo.cs
+D:\Code\MissingNumberArray\obj\Debug\netcoreapp3.1\MissingNumberArray.dll
+D:\Code\MissingNumberArray\obj\Debug\netcoreapp3.1\MissingNumberArray.pdb

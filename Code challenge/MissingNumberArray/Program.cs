@@ -15,6 +15,7 @@ namespace MissingNumberArray
 
             //Console.WriteLine("The missing number in the array is " + GetMissingNumber(searchArray, sizeOfArray));
             Console.WriteLine("The missing number in the array is " + GetMissingNumberXOR(searchArray, sizeOfArray));
+
         }
 
 
