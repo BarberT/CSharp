@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Code\\MissingNumberArray\\MissingNumberArray.csproj": {}
+    "C:\\Users\\mthom\\Source\\Repos\\BarberT\\CSharp\\Code challenge\\MissingNumberArray\\MissingNumberArray.csproj": {}
   },
   "projects": {
-    "D:\\Code\\MissingNumberArray\\MissingNumberArray.csproj": {
+    "C:\\Users\\mthom\\Source\\Repos\\BarberT\\CSharp\\Code challenge\\MissingNumberArray\\MissingNumberArray.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Code\\MissingNumberArray\\MissingNumberArray.csproj",
+        "projectUniqueName": "C:\\Users\\mthom\\Source\\Repos\\BarberT\\CSharp\\Code challenge\\MissingNumberArray\\MissingNumberArray.csproj",
         "projectName": "MissingNumberArray",
-        "projectPath": "D:\\Code\\MissingNumberArray\\MissingNumberArray.csproj",
+        "projectPath": "C:\\Users\\mthom\\Source\\Repos\\BarberT\\CSharp\\Code challenge\\MissingNumberArray\\MissingNumberArray.csproj",
         "packagesPath": "C:\\Users\\mthom\\.nuget\\packages\\",
-        "outputPath": "D:\\Code\\MissingNumberArray\\obj\\",
+        "outputPath": "C:\\Users\\mthom\\Source\\Repos\\BarberT\\CSharp\\Code challenge\\MissingNumberArray\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -58,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
         }
       }
     }

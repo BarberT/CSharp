@@ -9,3 +9,16 @@ D:\Code\MissingNumberArray\obj\Debug\netcoreapp3.1\MissingNumberArray.AssemblyIn
 D:\Code\MissingNumberArray\obj\Debug\netcoreapp3.1\MissingNumberArray.AssemblyInfo.cs
 D:\Code\MissingNumberArray\obj\Debug\netcoreapp3.1\MissingNumberArray.dll
 D:\Code\MissingNumberArray\obj\Debug\netcoreapp3.1\MissingNumberArray.pdb
+C:\Users\mthom\Source\Repos\BarberT\CSharp\Code challenge\MissingNumberArray\bin\Debug\netcoreapp3.1\MissingNumberArray.exe
+C:\Users\mthom\Source\Repos\BarberT\CSharp\Code challenge\MissingNumberArray\bin\Debug\netcoreapp3.1\MissingNumberArray.deps.json
+C:\Users\mthom\Source\Repos\BarberT\CSharp\Code challenge\MissingNumberArray\bin\Debug\netcoreapp3.1\MissingNumberArray.runtimeconfig.json
+C:\Users\mthom\Source\Repos\BarberT\CSharp\Code challenge\MissingNumberArray\bin\Debug\netcoreapp3.1\MissingNumberArray.runtimeconfig.dev.json
+C:\Users\mthom\Source\Repos\BarberT\CSharp\Code challenge\MissingNumberArray\bin\Debug\netcoreapp3.1\MissingNumberArray.dll
+C:\Users\mthom\Source\Repos\BarberT\CSharp\Code challenge\MissingNumberArray\bin\Debug\netcoreapp3.1\MissingNumberArray.pdb
+C:\Users\mthom\Source\Repos\BarberT\CSharp\Code challenge\MissingNumberArray\obj\Debug\netcoreapp3.1\MissingNumberArray.csprojAssemblyReference.cache
+C:\Users\mthom\Source\Repos\BarberT\CSharp\Code challenge\MissingNumberArray\obj\Debug\netcoreapp3.1\MissingNumberArray.AssemblyInfoInputs.cache
+C:\Users\mthom\Source\Repos\BarberT\CSharp\Code challenge\MissingNumberArray\obj\Debug\netcoreapp3.1\MissingNumberArray.AssemblyInfo.cs
+C:\Users\mthom\Source\Repos\BarberT\CSharp\Code challenge\MissingNumberArray\obj\Debug\netcoreapp3.1\MissingNumberArray.csproj.CoreCompileInputs.cache
+C:\Users\mthom\Source\Repos\BarberT\CSharp\Code challenge\MissingNumberArray\obj\Debug\netcoreapp3.1\MissingNumberArray.dll
+C:\Users\mthom\Source\Repos\BarberT\CSharp\Code challenge\MissingNumberArray\obj\Debug\netcoreapp3.1\MissingNumberArray.pdb
+C:\Users\mthom\Source\Repos\BarberT\CSharp\Code challenge\MissingNumberArray\obj\Debug\netcoreapp3.1\MissingNumberArray.genruntimeconfig.cache
