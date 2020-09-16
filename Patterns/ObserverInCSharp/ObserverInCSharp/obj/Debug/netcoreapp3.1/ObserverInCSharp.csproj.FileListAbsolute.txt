@@ -1,0 +1,13 @@
+C:\Users\mthom\Desktop\TestCode\ObserverInCSharp\ObserverInCSharp\obj\Debug\netcoreapp3.1\ObserverInCSharp.csprojAssemblyReference.cache
+C:\Users\mthom\Desktop\TestCode\ObserverInCSharp\ObserverInCSharp\obj\Debug\netcoreapp3.1\ObserverInCSharp.AssemblyInfoInputs.cache
+C:\Users\mthom\Desktop\TestCode\ObserverInCSharp\ObserverInCSharp\obj\Debug\netcoreapp3.1\ObserverInCSharp.AssemblyInfo.cs
+C:\Users\mthom\Desktop\TestCode\ObserverInCSharp\ObserverInCSharp\obj\Debug\netcoreapp3.1\ObserverInCSharp.csproj.CoreCompileInputs.cache
+C:\Users\mthom\Desktop\TestCode\ObserverInCSharp\ObserverInCSharp\bin\Debug\netcoreapp3.1\ObserverInCSharp.exe
+C:\Users\mthom\Desktop\TestCode\ObserverInCSharp\ObserverInCSharp\bin\Debug\netcoreapp3.1\ObserverInCSharp.deps.json
+C:\Users\mthom\Desktop\TestCode\ObserverInCSharp\ObserverInCSharp\bin\Debug\netcoreapp3.1\ObserverInCSharp.runtimeconfig.json
+C:\Users\mthom\Desktop\TestCode\ObserverInCSharp\ObserverInCSharp\bin\Debug\netcoreapp3.1\ObserverInCSharp.runtimeconfig.dev.json
+C:\Users\mthom\Desktop\TestCode\ObserverInCSharp\ObserverInCSharp\bin\Debug\netcoreapp3.1\ObserverInCSharp.dll
+C:\Users\mthom\Desktop\TestCode\ObserverInCSharp\ObserverInCSharp\bin\Debug\netcoreapp3.1\ObserverInCSharp.pdb
+C:\Users\mthom\Desktop\TestCode\ObserverInCSharp\ObserverInCSharp\obj\Debug\netcoreapp3.1\ObserverInCSharp.dll
+C:\Users\mthom\Desktop\TestCode\ObserverInCSharp\ObserverInCSharp\obj\Debug\netcoreapp3.1\ObserverInCSharp.pdb
+C:\Users\mthom\Desktop\TestCode\ObserverInCSharp\ObserverInCSharp\obj\Debug\netcoreapp3.1\ObserverInCSharp.genruntimeconfig.cache

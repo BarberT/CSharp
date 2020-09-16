@@ -2,8 +2,9 @@
   "ExpandedNodes": [
     "",
     "\\Code challenge",
-    "\\Code challenge\\IsStringIsogram"
+    "\\Fun",
+    "\\Fun\\FizzBuzz"
   ],
-  "SelectedNode": "\\Code challenge\\IsStringIsogram\\IsStringIsogram.sln",
+  "SelectedNode": "\\Fun\\FizzBuzz\\FizzBuzz.sln",
   "PreviewInSolutionExplorer": false
 }

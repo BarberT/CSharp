@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mthom\\Source\\Repos\\BarberT\\CSharp\\Fun\\FizzBuzz\\FizzBuzz.csproj",
-      "projectName": "FizzBuzz",
-      "projectPath": "C:\\Users\\mthom\\Source\\Repos\\BarberT\\CSharp\\Fun\\FizzBuzz\\FizzBuzz.csproj",
+      "projectUniqueName": "C:\\Users\\mthom\\Desktop\\TestCode\\ObserverInCSharp\\ObserverInCSharp\\ObserverInCSharp.csproj",
+      "projectName": "ObserverInCSharp",
+      "projectPath": "C:\\Users\\mthom\\Desktop\\TestCode\\ObserverInCSharp\\ObserverInCSharp\\ObserverInCSharp.csproj",
       "packagesPath": "C:\\Users\\mthom\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mthom\\Source\\Repos\\BarberT\\CSharp\\Fun\\FizzBuzz\\obj\\",
+      "outputPath": "C:\\Users\\mthom\\Desktop\\TestCode\\ObserverInCSharp\\ObserverInCSharp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
